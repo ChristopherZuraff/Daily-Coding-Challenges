@@ -14,7 +14,7 @@ public class Library{
           if (library.get(book)==true){
             System.out.println("Book completed:"+ book);}
            if(library.get(book)!=true){
-              System.out.println("Book incompled:" + book);
+              System.out.println("Book incompleted:" + book);
             }
           
         }
